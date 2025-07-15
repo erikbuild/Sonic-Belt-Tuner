@@ -6,6 +6,8 @@ An iOS application for measuring 3D printer belt tension using acoustic frequenc
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+![screenshot](screenshot.png)
+
 ## Features
 
 ### 🎯 Accurate Frequency Detection
