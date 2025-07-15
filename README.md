@@ -1,4 +1,4 @@
-# SonicBeltTuner
+# Sonic Belt Tuner
 
 An iOS application for measuring 3D printer belt tension using acoustic frequency analysis. Simply pluck your printer's belt and let SonicBeltTuner detect the resonant frequency to determine if your belts are properly tensioned.
 
